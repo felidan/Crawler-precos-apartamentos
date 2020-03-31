@@ -1,0 +1,10 @@
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\bin\Debug\Pcn.Tela.exe.config
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\bin\Debug\Pcn.Tela.exe
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\bin\Debug\Pcn.Tela.pdb
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\Pcn.Tela.csprojAssemblyReference.cache
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\Pcn.Tela.Form1.resources
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\Pcn.Tela.Properties.Resources.resources
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\Pcn.Tela.csproj.GenerateResource.cache
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\Pcn.Tela.csproj.CoreCompileInputs.cache
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\Pcn.Tela.exe
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\Pcn.Tela.pdb

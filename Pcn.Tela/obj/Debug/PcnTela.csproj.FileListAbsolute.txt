@@ -1,0 +1,17 @@
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\PcnTela.csprojAssemblyReference.cache
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\PcnTela.Form1.resources
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\Pcn.Tela.Properties.Resources.resources
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\PcnTela.csproj.GenerateResource.cache
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\PcnTela.csproj.CoreCompileInputs.cache
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\bin\Debug\Pcn.Tela.exe.config
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\bin\Debug\Pcn.Tela.exe
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\bin\Debug\Pcn.Tela.pdb
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\bin\Debug\Pcn.Crawler.exe
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\bin\Debug\HtmlAgilityPack.dll
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\bin\Debug\Pcn.Crawler.pdb
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\bin\Debug\Pcn.Crawler.exe.config
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\bin\Debug\HtmlAgilityPack.pdb
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\bin\Debug\HtmlAgilityPack.xml
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\PcnTela.csproj.CopyComplete
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\Pcn.Tela.exe
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Tela\obj\Debug\Pcn.Tela.pdb

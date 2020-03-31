@@ -1,0 +1,10 @@
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Crawler\bin\Debug\Pcn.Crawler.exe.config
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Crawler\bin\Debug\Pcn.Crawler.exe
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Crawler\bin\Debug\Pcn.Crawler.pdb
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Crawler\obj\Debug\Pcn.Crawler.csproj.CoreCompileInputs.cache
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Crawler\obj\Debug\Pcn.Crawler.exe
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Crawler\obj\Debug\Pcn.Crawler.pdb
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Crawler\bin\Debug\HtmlAgilityPack.dll
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Crawler\bin\Debug\HtmlAgilityPack.pdb
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Crawler\bin\Debug\HtmlAgilityPack.xml
+E:\Projetos\CSharp\ProjetoCasaNova\Pcn.Crawler\obj\Debug\Pcn.Crawler.csproj.CopyComplete
